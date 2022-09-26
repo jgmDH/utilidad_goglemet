@@ -1,3 +1,486 @@
 User: Juan Gabriel Machuca - 13:16
 Hola, este es un mensaje desde el chat de google met. 👋
 
+User: German Daniel Torres - 9:59
+Genial! buen dia, a hacer mate
+User: Leidy Johanna Roldan Vargas - 9:59
+Buenos días!
+User: Juan Martin Guglielmone - 9:59
+Buenos dias
+User: Tú - 10:00
+User: Juan Urbano - 10:00
+Buenos días! 👋
+Buenos días!!
+User: Daniel Abila - 10:00
+Buen día gente
+
+User: Camila Lorena Conte - 10:00
+Buen dia!
+
+User: Milagros Stephanie Sassenus - 10:00
+Buenas
+
+User: Julie Padilla - 10:00
+buenos días para todos!
+
+User: Nicolás Aldeco - 10:01
+Buenos dias!!
+
+
+User: Matias De La Serna - 10:02
+hoy es feriado para algunos puede ser o me equivoco?
+User: Dario Di Gulio - 10:02
+Buenos días!!
+
+User: Abril Martina Gil - 10:02
+Día del comerciamte
+
+User: Matias De La Serna - 10:03
+año nuevo judio me figura en el calendar
+
+User: Mariano Macri - 10:03
+si si, ac'a es feriado
+
+User: Dario Di Gulio - 10:03
+Felzi Rosh Hashaná
+
+User: Daniel Abila - 10:07
+Java
+
+User: Nadia Martin Montesi - 10:07
+Java
+
+User: Juan Martin Guglielmone - 10:07
+Python
+
+User: Lucas Damian Soria Gava - 10:08
+pyhton, java , C, js
+
+User: Ivan Arturo Rodriguez Pineda - 10:08
+Python
+
+User: Santiago Agustin Laiton Cubides - 10:08
+java
+
+User: Mario Teodoro Escudero - 10:08
+javascript/node
+
+User: Julie Padilla - 10:08
+node , java
+
+User: Pedro Maria Rocha - 10:08
+Javascript
+
+User: Ivan Arturo Rodriguez Pineda - 10:08
+bash
+
+User: Mariano Macri - 10:08
+javascript, python
+
+User: Luis Alejandro Carvajal Villa - 10:08
+node
+
+User: Sarai San Juan - 10:08
+Java, Python
+
+User: Santiago Agustin Laiton Cubides - 10:08
+python
+
+User: Dario Di Gulio - 10:08
+Python, Javascript, Java, Typescript, Kotlin
+
+User: Nadia Martin Montesi - 10:08
+Javascript
+
+User: Romina Andrea Corsiglia - 10:08
+java lambda
+
+User: Laureano Silva - 10:08
+Python, c#, js
+
+User: Deisy Marcela Cuellar Galvira - 10:08
+Java, phyton, c#, js
+
+User: Santiago Agustin Laiton Cubides - 10:08
+javascript
+
+User: Lucas Damian Soria Gava - 10:10
+no
+
+User: Romina Andrea Corsiglia - 10:10
+si
+
+User: Milagros Stephanie Sassenus - 10:10
+no
+
+User: Dario Di Gulio - 10:10
+Sí
+
+User: Julie Padilla - 10:10
+no
+
+User: Sarai San Juan - 10:10
+No
+
+User: Juan Camilo Salgado Meza - 10:10
+No
+
+User: Romina Andrea Corsiglia - 10:10
+x los hilos
+
+User: Dario Di Gulio - 10:10
+Un programa puede tener varios puntos de entrada
+
+User: Abril Martina Gil - 10:10
+No deberia
+
+User: Leidy Johanna Roldan Vargas - 10:10
+una por directorio?
+
+User: Milagros Stephanie Sassenus - 10:10
+no puede llevar el mismo nombre
+
+User: Dionys Seidel - 10:11
+Y también están las funciones default, aunque no las ví muchx
+El tema es que se repiten en nombre
+
+User: Tú - 10:14
+Effective Go:
+https://go.dev/doc/effective_go
+
+Naming conventions golang:
+https://www.golangprograms.com/naming-conventions-for-golang-functions.html#:~:text=A%20name%20must%20begin%20with,function%20name%20cannot%20contain%20spaces.
+
+User: Julie Padilla - 10:14
+claro
+
+User: Mario Teodoro Escudero - 10:14
+todo bien
+
+User: Natalia Belen Alvarez - 10:26
+todo claro
+
+User: Dario Di Gulio - 10:26
+Joya
+
+User: Lucas Damian Soria Gava - 10:26
+bien
+
+User: Mario Teodoro Escudero - 10:26
+todo bien
+
+User: Franco Rodolfo Pesenda - 10:26
+todo claro
+
+User: Abril Martina Gil - 10:26
+Bien
+
+User: Deisy Marcela Cuellar Galvira - 10:26
+todo claro
+
+User: Romina Andrea Corsiglia - 10:26
+super
+
+User: Julian Ochoa Barco - 10:26
+Todo claro
+
+User: Jeisson Fernando Santiesteban Mendivelso - 10:26
+todo claro
+
+User: Juan Andrés Pérez Trejos - 10:26
+todo claro!
+
+User: Julie Padilla - 10:30
+guardarlo en una variable
+
+User: Mario Teodoro Escudero - 10:33
+por que el result esta en el scope de esa funcion
+
+User: Natalia Belen Alvarez - 10:33
+son de scopes diferentes
+
+User: Leidy Johanna Roldan Vargas - 10:33
+scope
+
+User: Milagros Stephanie Sassenus - 10:35
+todo ok
+
+User: Natalia Belen Alvarez - 10:35
+clarisimo
+
+User: Nicolas Baltazar Navarro Tapia - 10:35
+todo bien!
+
+User: Mario Teodoro Escudero - 10:35
+todo bien
+
+User: Jeisson Fernando Santiesteban Mendivelso - 10:35
+todo claro
+
+User: Zoe Agustina Tira - 10:37
+Consulta, en go se puede hacer pasaje de valor por referencia?
+O solo por valor?
+
+User: Nicolás Aldeco - 10:37
+Sii se puede Zoe
+
+User: Lucas Masiero - 10:37
+correcto zoe
+
+User: Zoe Agustina Tira - 10:37
+Gracias
+
+User: Romina Andrea Corsiglia - 10:37
+con float
+
+User: Nicolás Aldeco - 10:37
+Se hace atravez de punteros, por la tarde proundizamos un poco mas en tema
+
+User: Zoe Agustina Tira - 10:38
+Claro, genial
+
+
+
+
+
+
+User: Juan Andrés Pérez Trejos - 10:38
+Aquí en Go también se manejan los callbacks?
+
+User: Mario Teodoro Escudero - 10:44
+o colocar return  num1 + num2
+User: Zoe Agustina Tira - 10:44
+No se puede "transformar" el operador par aque se pueda convertir automaticamente y se haga la operatoria?
+
+
+User: Yuhong Huang - 10:44
+un break?
+
+User: Lucas Damian Soria Gava - 10:45
+creo que eso lo dijeron
+
+User: Milagros Stephanie Sassenus - 10:46
+se rompe
+
+User: Milagros Stephanie Sassenus - 10:48
+todo bien
+User: Franco Rodolfo Pesenda - 10:48
+bien
+
+
+User: Jeisson Fernando Santiesteban Mendivelso - 10:48
+todo claro
+
+User: German Daniel Torres - 10:48
+clarito todo
+User: Fernando Agustin Zunda - 10:48
+todo bien
+
+
+User: Romina Andrea Corsiglia - 10:49
+lo estaba googleando justo. gracias
+
+User: Dionys Seidel - 10:49
+Significa un entorno de ejecución?
+
+User: Juan Andrés Pérez Trejos - 10:51
+es como quien dijese, lo que pasa en la casa, se queda en la casa
+
+User: Mariano Macri - 10:52
+¿y las variables declaradas en un if o en un switch o for?
+
+User: Nicolás Aldeco - 10:52
+A que te referis Mariano?
+
+User: Romina Andrea Corsiglia - 10:53
+murieron todos ja
+
+User: Nadia Martin Montesi - 10:53
+nadie
+jajaj
+
+User: Juan Urbano - 10:53
+pasar multiples valores a una función
+
+User: Mariano Macri - 10:53
+@nicolas: por ejemplo
+switch count := 0; count {
+// ...
+
+User: Jacobo Rave Londono - 10:54
+nunca he escuchado ese termino, existe en algún otro lenguaje?
+
+User: Julie Padilla - 10:54
+como los que vimos en el slice?
+User: Juan Pablo Hernandez Jimenez - 10:54
+Es como *args en python?
+
+
+User: Daniel Abila - 10:54
+vendría a ser una lista?
+
+User: Lucas Masiero - 10:54
+danile, similar
+
+User: Nicolás Aldeco - 10:54
+@mariano Claro, la variable count en ese caso solo va a estar disponible dentro del switch
+User: Juan Andrés Pérez Trejos - 10:54
+en javascript existe pero de otra manera se llama, no recuerdo cómo. Pero es bastante útil para cuando no se sabe cuántos parametros van a parar en la funcion
+
+
+User: Mariano Macri - 10:55
+@nicolas Perfecto, gracias!
+
+User: Lucas Damian Soria Gava - 10:56
+se tratan como un array o como un slice?
+User: Abril Martina Gil - 10:56
+Ah el spread operator en js
+
+
+User: Jeisson Fernando Santiesteban Mendivelso - 10:56
+creo que es el spread operator de javascript jeje
+
+User: Lucas Masiero - 10:57
+@abril tambien se puede usar como spread en go
+
+User: Matias De La Serna - 10:57
+solo un ellipsis se puede usar x funcion?
+
+User: Daniel Abila - 10:58
+como se llama esa extensión que te muestra los errores en el momento ?
+
+User: Jeisson Fernando Santiesteban Mendivelso - 10:58
+@Daniel error lens
+
+User: Daniel Abila - 10:59
+Gracias!
+
+User: Lucas Masiero - 10:59
+@matias correcto y siempre al final
+
+User: Dario Di Gulio - 11:01
+joya
+
+User: Mario Teodoro Escudero - 11:01
+se puede colocar 2 elipsis de parametro? no la capte
+
+User: Daniel Abila - 11:03
+a mi me está tirando que value no es usado
+
+User: Daniel Abila - 11:03
+ya arreglé
+
+User: Nicolas Tesone - 11:03
+porque no lo estas usando Dani
+
+User: Nicolas Tesone - 11:03
+buenisimo
+
+User: Lucas Masiero - 11:03
+@mario no. La idea del elipsis es que puedas pasarle indeterminada cantidad de parametros, entonces si pones 2 elipsis, cuando intentes pasar los parametros a la funcion, no va a conocer cual de los 2 es
+
+User: Nicolas Tesone - 11:04
+como convenccion las elipsis se colocan al final
+
+User: Juan Urbano - 11:04
+identificado de la variable
+
+User: Lucas Masiero - 11:05
+los primeros parametros son exclusivos
+
+User: Lucas Damian Soria Gava - 11:05
+porque al leerlo de izquierda a derecha, el primer int lo asigna al param2
+
+User: Abril Martina Gil - 11:05
+Y la func siempre respeta el ordende parámetros
+
+User: Lucas Masiero - 11:05
+claro
+User: Nicolas Tesone - 11:05
+exacto
+
+
+User: Nicolas Tesone - 11:05
+le podemos pasar n cantidad de parametros, pero el elipsis siempre al final
+
+User: Franco Rodolfo Pesenda - 11:06
+entonces solo podemos tener 1 elipsis por función?
+
+User: Lucas Masiero - 11:06
+claro
+User: Zoe Agustina Tira - 11:06
+En vez de pasarle los parametros uno por uno en el ellipsis, se puede pasar un slice?
+
+
+User: Zoe Agustina Tira - 11:06
+ya que seria dinamico
+
+User: Mario Teodoro Escudero - 11:06
+Gracias Lucas
+
+User: Lucas Masiero - 11:06
+se podría utilizar tambien un slice como suplemeto, pero se suele usar el elipsis
+
+User: Zoe Agustina Tira - 11:07
+pero a lo que voy es que en la funcion este el ellipsis pero cuando la llamo le paso un slice
+
+User: Nicolas Tesone - 11:08
+Les dejo este link para quienes quieran profundizar un poco sobre elipsis https://www.geeksforgeeks.org/how-to-use-ellipsis-in-golang/
+
+User: Lucas Masiero - 11:08
+User: Mario Teodoro Escudero - 11:08
+Nico consulta, todos los links que mandan con info en las clases pueden porfavor como, armar un docs con todos ?
+@zoe te referis a que por ejemplo tenes en un scope anterior, un slice con numeros y queres pasarle todos esos numeros a la funcion con elipsis?
+
+
+User: Mario Teodoro Escudero - 11:08
+o estan en el playground ?
+
+User: Zoe Agustina Tira - 11:09
+tengo la definicion de la funcion como func nombre(valores ... float64)
+
+User: Nicolás Aldeco - 11:09
+Estos link los vamos a estar compartiendo por el canal de coding en slack
+User: Zoe Agustina Tira - 11:09
+y cuando llamo a la funcion lo hago como
+
+
+User: Zoe Agustina Tira - 11:09
+nombre(valores)
+
+User: Zoe Agustina Tira - 11:09
+donde valores es un slice
+
+User: Zoe Agustina Tira - 11:09
+slice de floats
+
+User: Lucas Masiero - 11:10
+para poder hacer eso tenes que aplicar como el operador spread de javascript
+
+User: Lucas Masiero - 11:10
+"valores..." mas adelante se ve
+
+User: Romina Andrea Corsiglia - 11:11
+pregunta. como se hace el signo distinto ?
+
+User: Zoe Agustina Tira - 11:11
+claro, se llamaria como nombre(...valores)
+
+User: Zoe Agustina Tira - 11:11
+!=
+User: Lucas Masiero - 11:11
+los 3 puntos al final para desempacar los valores
+
+
+User: Zoe Agustina Tira - 11:11
+ahhh okok, seria al reves entonces
+
+User: Zoe Agustina Tira - 11:11
+graciass
+
+User: Romina Andrea Corsiglia - 11:12
+grax
+
+User: Luis Alejandro Carvajal Villa - 11:15
+callback function?
+

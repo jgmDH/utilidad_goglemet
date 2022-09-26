@@ -13,17 +13,21 @@ go run main.go
 function participantes(){
     var p = {"participants": []}
     items = document.querySelectorAll(`[role="listitem"]`);
-    for (var i=0; i<items.length; i++) {
-        spans =	items[i].getElementsByTagName("span")
-        p.participants.push(spans[0].innerHTML)
+    if (items.length > 0){
+        for (var i=0; i<items.length; i++) {
+            spans =	items[i].getElementsByTagName("span")
+            p.participants.push(spans[0].innerHTML)
+        }
+        
+        fetch("http://localhost:8000/asistencia", {
+            headers: new Headers({ "content-type": "application/json" }),
+            mode: 'no-cors',
+            method: "POST",
+            body: JSON.stringify(p)   
+        })
+    }else{
+        console.log("Panel no generado o no hay participantes")
     }
-    
-    fetch("http://localhost:8000/asistencia", {
-        headers: new Headers({ "content-type": "application/json" }),
-        mode: 'no-cors',
-        method: "POST",
-        body: JSON.stringify(p)   
-    })
 }
 
 ```
