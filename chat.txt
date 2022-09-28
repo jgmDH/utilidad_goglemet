@@ -1,0 +1,1616 @@
+User: German Daniel Torres - 11:37
+User: Mariano Macri - 11:37
+Gracias!
+¿nos habíamos ido?
+
+
+User: Daniel Abila - 11:52
+tamos bien
+
+User: Milagros Stephanie Sassenus - 11:52
+todo bien
+
+User: Mario Teodoro Escudero - 11:52
+vamos nomas
+User: Franco Rodolfo Pesenda - 11:52
+nil es como null?
+
+
+User: Daniel Abila - 11:53
+si
+
+User: Daniel Abila - 11:55
+me suena a boolean
+User: Mariano Macri - 11:55
+if err
+User: Zoe Agustina Tira - 11:55
+si es nil o no
+User: Jeisson Fernando Santiesteban Mendivelso - 11:55
+si es nil
+
+
+
+
+User: Abril Martina Gil - 11:55
+If
+User: Mario Teodoro Escudero - 11:55
+if err ¿
+
+
+User: Mario Teodoro Escudero - 11:57
+todo bien
+
+User: Jeisson Fernando Santiesteban Mendivelso - 11:57
+todo claro
+User: Julie Padilla - 11:57
+súper
+User: Mariano Macri - 11:57
+panic!
+
+
+
+User: Mario Teodoro Escudero - 11:59
+si
+
+User: Pedro Maria Rocha - 12:00
+perdon se me cayo el wifi justo jaja
+
+User: Dario Di Gulio - 12:01
+Joya!
+
+User: Milagros Stephanie Sassenus - 12:01
+dale
+User: Romina Andrea Corsiglia - 12:01
+dale
+User: Roberto Gattas - 12:01
+Perfecto!
+
+
+
+User: Mario Teodoro Escudero - 12:01
+dale
+User: Julie Padilla - 12:01
+gracias
+User: Mariano Macri - 12:01
+hasta luego
+
+
+
+User: Jeisson Fernando Santiesteban Mendivelso - 12:01
+dale
+
+User: Luisa Alejandra Marin Valderrama - 12:01
+perfecto
+
+User: Abril Martina Gil - 12:15
+Tamos
+
+User: Zoe Agustina Tira - 12:20
+Podesmo hacer como en los parametros y poner todos los nombre y al final el tipo de dato qeu retorna?
+
+User: Zoe Agustina Tira - 12:23
+perfecto
+
+User: Matias De La Serna - 12:27
+hay una extension que te sugiere para auto completar puede ser?
+
+User: Lucas Masiero - 12:27
+es como inicializar la variable desde el retorno
+
+User: Dario Di Gulio - 12:27
+@Matias de la Serna, creo que se llama tabnine
+
+User: Matias De La Serna - 12:27
+asi es, gracias!
+
+User: Romina Andrea Corsiglia - 12:27
+lo toma por orden del return ?
+
+User: Dario Di Gulio - 12:28
+https://www.tabnine.com/install/vscode
+
+User: Milagros Stephanie Sassenus - 12:43
+Tdo joya x aca
+
+User: Dario Di Gulio - 12:43
+Yo!
+
+User: Dario Di Gulio - 12:43
+Podemos poner valores por defecto en los de retorno?
+User: Julie Padilla - 12:43
+todo claro listos para repasar
+
+
+User: Jeisson Fernando Santiesteban Mendivelso - 12:43
+todo bien
+
+User: Dario Di Gulio - 12:44
+Exelente! Gracias!
+
+User: Pedro Maria Rocha - 12:44
+Siento que con Go estoy aprendiendo como 3 lenguajes en consecutivo
+
+User: Lucas Masiero - 12:48
+por lo general como mucho suelen ser maximo 3 parametros
+
+User: Lucas Masiero - 12:48
+https://go.dev/doc/effective_go
+
+User: Ivan Arturo Rodriguez Pineda - 12:49
+Todo ok
+
+User: Juan Fernando Calle Herrera - 12:51
+ese 10% se calcula sobre el ya descontado del 17% o es acumulado?
+
+User: Franco Rodolfo Pesenda - 12:55
+si
+
+User: Nicolás Aldeco - 12:56
+https://docs.google.com/spreadsheets/d/1F63ehhZdcEUkNFoKg3RHm8ZL8dKAJDhpOfCfOoH4D1c/edit#gid=0
+
+User: Zoe Agustina Tira - 12:56
+Gracais!!
+User: Julie Padilla - 12:56
+gracias Mati
+
+
+User: Pedro Maria Rocha - 12:56
+Gracias mati muy buena la clase!
+
+User: Mathias Hilgert - 12:57
+<3
+
+User: Juan Andrés Pérez Trejos - 12:59
+Nico o Mati, lo que pasa es que en este momento estoy aquí en el Centro de Vizcaya de Meli porque los de Internal Systems me están actualizando la Mac por el error que les comenté. Por el momento estoy conectado desde el móvil, puedo igual unirme a la sala? No voy a poder codear mientras no tengo la Mac :/ calculo será hasta ahora dentro de 2 horas
+
+User: Juan Andrés Pérez Trejos - 13:00
+Listo, buenísimo! Calculo ya ahora todo queda bien jajaja
+
+User: Juan Andrés Pérez Trejos - 13:00
+Sii, justo se lo mencioné a Flor ahora, me pongo al pelo cuando tenga todo ok
+
+User: Mathias Hilgert - 13:01
+<3
+
+User: Tú - 13:04
+que grande felicitaciones!
+
+User: Tú - 13:11
+caliento el agua y vuelvo.
+
+User: Lucas Masiero - 13:12
+dale
+
+User: Mathias Hilgert - 13:12
+okiss
+
+User: Tú - 13:18
+ready :)
+
+User: Mathias Hilgert - 13:18
+Esoooo 😎
+
+User: Mathias Hilgert - 13:21
+PepeD PepeD PepeD
+User: Lucas Masiero - 13:21
+nose si conocen el juego forza horizon 5. tiene altos temas
+https://open.spotify.com/playlist/68JPfT4aRu0eJp0Z6CQeGs?si=0d12f35bdf0a4981
+
+
+User: Mathias Hilgert - 13:21
+Euuu si! Mi banda favorita hizo un tema para ellos :D
+
+User: Tú - 13:22
+un poquito más fuerte para los que no tienen spotify jej
+
+User: Lucas Masiero - 13:23
+en unos 3 me paso por las salas 5 a 10
+User: Tú - 13:23
+👍
+
+
+User: Romina Andrea Corsiglia - 15:09
+estructura de datos ?
+User: Lucas Damian Soria Gava - 15:05
+sep, todo bien
+se
+User: Romina Andrea Corsiglia - 15:13
+un tupo seria casi como una clase ?
+User: Lucas Masiero - 15:15
+@romina te referis a type?
+User: Romina Andrea Corsiglia - 15:15
+sia la struct que esta haciendo nico
+User: Matias De La Serna - 15:16
+creo que se parece mas a un diccionario que a una clase (corriganme si me equivoco)
+
+User: Zoe Agustina Tira - 15:16
+Es simil a las clases de java no?
+o a los struct de c++
+
+User: Dario Di Gulio - 15:17
+Es el type de Typescript
+
+User: Romina Andrea Corsiglia - 15:17
+se le parece =)
+
+User: Lucas Masiero - 15:17
+es similar a las clases como en python o javascript pero tienen una orientacion distinta
+
+User: Mario Teodoro Escudero - 15:18
+se inicializa todo en default ?
+
+User: Dionys Seidel - 15:18
+y no te devuelve un hash
+
+User: Zoe Agustina Tira - 15:24
+no se puede pasar el array derecho sin necesidad de indicar tamaño y tipo?
+ya qye ya estaba indicado
+
+User: Lucas Masiero - 15:26
+@zoe no se puede
+hay que indicarlo
+
+User: Zoe Agustina Tira - 15:27
+gracias
+
+User: Maria Sol Diaz Real - 15:33
+se puede usar la ñ? :o
+buenisimo
+
+User: Zoe Agustina Tira - 15:33
+se podria inicializar el tipo dueño por separado como persona1 y despues hacer dog.Owner = persona1
+siendo persona1 del tipo dueño
+
+
+
+
+
+
+User: Leidy Johanna Roldan Vargas - 15:37
+Composicion?
+
+User: Dionys Seidel - 15:38
+me suena a mongo
+
+User: Juan Camilo Salgado Meza - 15:38
+Un diccionario en python
+
+User: Tú - 15:39
+Les comparto un articulo que esta muy bueno para profundizar la composición en go. https://blog.friendsofgo.tech/posts/orientacion-a-objectos-composicion/
+
+User: Zoe Agustina Tira - 15:44
+Si o si se le pasa la referencia al struct?
+
+User: Lucas Masiero - 15:44
+sisi
+
+User: Zoe Agustina Tira - 15:44
+oki
+User: Mario Teodoro Escudero - 15:44
+pero ahi con el *dog le estas mandando un puntero, que apuntaria a memoria ?
+
+
+User: Fernando Agustin Zunda - 15:44
+despues podes compartir ese codigo¿
+
+User: Lucas Masiero - 15:44
+@mario claro, los punteros se ven mas adelante
+
+User: Lucas Masiero - 15:44
+mas que nada la direccion de memoria
+
+User: Zoe Agustina Tira - 15:46
+no se le puso la etiqueta
+
+User: Zoe Agustina Tira - 15:46
+ahh
+
+User: Romina Andrea Corsiglia - 15:47
+el asperson porque se usa ? &dog ?
+
+User: Lucas Masiero - 15:47
+@romina es un concepto que se vera mas adelante. Representa al direccion en memoria de esa instancia
+
+User: Romina Andrea Corsiglia - 15:49
+gracias
+
+User: Lucas Masiero - 15:54
+el package reflect se utiliza por ejemplo para serializaciones mas costumizadas
+
+User: Tú - 15:55
+https://pkg.go.dev/reflect
+User: Zoe Agustina Tira - 15:55
+Consulta, poruqe en este caso no es necesario el pasaje por referencia?
+
+
+User: Ivan Arturo Rodriguez Pineda - 15:57
+Una duda, para que sirve el %s?
+
+User: Ivan Arturo Rodriguez Pineda - 15:57
+gracias
+
+User: Lucas Masiero - 15:58
+https://pkg.go.dev/fmt ahi tienen una lista de todos los tipos de formateo
+
+User: Lucas Masiero - 15:59
+es una copia
+
+User: Mario Teodoro Escudero - 16:00
+dale
+
+User: Roberto Gattas - 16:00
+perfecto
+
+User: Abril Martina Gil - 16:00
+dalee
+
+User: Lucas Masiero - 16:02
+que temon
+
+User: Ivan Arturo Rodriguez Pineda - 16:10
+¿Como se llama el temon? jjeje
+
+User: Zoe Agustina Tira - 16:16
+me perdi un toque
+User: Camila Lorena Conte - 16:16
+sisi
+
+
+User: Mario Teodoro Escudero - 16:16
+todo bien
+User: Zoe Agustina Tira - 16:16
+que era la p
+User: Juan Martin Guglielmone - 16:16
+si
+User: Milagros Stephanie Sassenus - 16:16
+todo bien
+User: Zoe Agustina Tira - 16:16
+?
+
+
+
+
+
+User: Fernando Agustin Zunda - 16:16
+si si
+User: Jeisson Fernando Santiesteban Mendivelso - 16:16
+todo bien
+User: Mariano Macri - 16:16
+todo bien
+
+
+
+User: Zoe Agustina Tira - 16:17
+ahhh
+
+User: Juan Pablo Hernandez Jimenez - 16:17
+es como el self de python
+User: Julie Padilla - 16:17
+esa p es como la instancia?
+
+
+User: Zoe Agustina Tira - 16:17
+hace referencia a cualquier estructura de tipo perro
+User: Lucas Masiero - 16:17
+@juan exacto
+
+
+User: Lucas Masiero - 16:17
+o el this en javascript
+
+User: Lucas Masiero - 16:17
+@julie claro. La p es como si fuese el nombre del parametro y el tipo de dato Perro
+
+User: Dario Di Gulio - 16:20
+Wrapper
+
+User: Lucas Masiero - 16:20
+eso
+
+User: Mariano Macri - 16:21
+creo que a eso le dicen "alias"
+
+User: Camila Lorena Conte - 16:22
+p.Nombre = new
+
+User: Zoe Agustina Tira - 16:23
+Este metodo actua sobre el objeto no?+
+
+User: Zoe Agustina Tira - 16:23
+o sea, la estructura
+
+User: Milagros Stephanie Sassenus - 16:23
+Si, es como un set
+
+User: Zoe Agustina Tira - 16:25
+Hay algun link que tengan a mano con todos los codigos del %?
+
+User: Lucas Masiero - 16:25
+https://pkg.go.dev/fmt ahi tienen una lista de todos los tipos de formateo
+
+User: Lucas Masiero - 16:25
+a los % se les llama verbs
+
+User: Zoe Agustina Tira - 16:25
+Graciasss
+
+User: Milagros Stephanie Sassenus - 16:25
+no se cambio el valor en la memoria
+User: Mario Teodoro Escudero - 16:25
+que esta modificando la copia
+
+
+User: Mario Teodoro Escudero - 16:25
+no el original
+
+User: Lucas Masiero - 16:25
+correcto
+User: Milagros Stephanie Sassenus - 16:25
+porque no lo hiciste x referencia
+
+
+User: Mario Teodoro Escudero - 16:26
+que seria modificar con la ref a memoria
+
+User: Milagros Stephanie Sassenus - 16:27
+Se entiende
+User: Abril Martina Gil - 16:27
+de ahi el uso d punteros
+
+
+User: Sarai San Juan - 16:27
+si
+
+User: Mario Teodoro Escudero - 16:31
+todo bien
+User: Milagros Stephanie Sassenus - 16:31
+todo correcto
+
+
+User: Jeisson Fernando Santiesteban Mendivelso - 16:31
+todo bien
+
+User: Abril Martina Gil - 16:39
+aca no funcionaria ...dog ?
+
+User: Mario Teodoro Escudero - 16:41
+las interfaces ademas de funcionar como contratos, funcionaria como para implementar el poliformismo?
+
+User: Milagros Stephanie Sassenus - 16:41
+Si, se entiende
+
+User: Lucas Masiero - 16:41
+se utilizan para polimorfismo
+
+User: Lucas Masiero - 16:41
+correcto
+
+User: Julie Padilla - 16:43
+ahi el nombre de la función es NewAnimal
+
+User: Juan Andrés Pérez Trejos - 16:44
+NewAnimal podría implementarse facilmente como un Factory Method, no?
+
+User: Juan Andrés Pérez Trejos - 16:44
+Aplicando el patrón de diseño, me refiero
+
+User: Lucas Masiero - 16:46
+la interfaz se la puede ver como un 'servicio' donde nos provee de varios metodos. Sabemos que nos pide y que es lo que devuelve, No sabemos el proceso interno (abstraccion). Eso es lo unico que nos interesa. Lo bueno es que podemos representar a esa interfaz o contrato mediante cualquier struct con metodos que lleve a cabo ese proceso de forma distinta
+
+User: Abril Martina Gil - 16:47
+sisi,  ahor si, me imagine con ese ejemplo de metodos, ruta /user tiene distintos method . ahora sii gracias Lucas
+
+User: German Daniel Torres - 16:57
+genial!
+
+User: Milagros Stephanie Sassenus - 16:57
+Yo no tengo dudas
+
+User: Milagros Stephanie Sassenus - 17:01
+sisi
+User: Mariano Macri - 17:01
+maso
+
+
+User: Milagros Stephanie Sassenus - 17:06
+sisi
+
+User: Abril Martina Gil - 17:06
+ssi
+
+User: Mario Teodoro Escudero - 17:06
+hay dudas pero seguro haciendo, nos vamos a ir dando cuenta
+
+User: Abril Martina Gil - 17:06
+plus jaja
+
+User: Julie Padilla - 17:07
+profe el código nos lo pasas al slack porfa
+
+User: Julie Padilla - 17:07
+el que hiciste en clase
+
+User: Juan Andrés Pérez Trejos - 17:08
+Nico habemus mac, ya me lo pudieron solucionar
+
+User: Juan Andrés Pérez Trejos - 17:08
+hoy me pongo en orden con todo
+User: Lucas Masiero - 17:08
+niceee
+
+
+User: Dario Di Gulio - 10:09
+/
+User: Camila Lorena Conte - 10:09
+\n
+User: Dario Di Gulio - 10:09
+/n
+User: Lucas Damian Soria Gava - 10:09
+\n
+
+
+
+
+User: Lucas Damian Soria Gava - 10:10
+%v
+
+User: Daniel Abila - 10:11
+aprovecho a preguntar, como se hace la barra invertida desde la mac?
+
+User: Pedro Maria Rocha - 10:11
+arriba a la derecha debajo del esc
+
+User: Ivan Arturo Rodriguez Pineda - 10:11
+option + ? me sale a mi
+
+User: Milagros Stephanie Sassenus - 10:11
+option + º
+User: Juan Camilo Salgado Meza - 10:11
+option + boton debajo de esc
+
+
+User: Natali Martinez - 10:11
+option y el que esta al lado del 1
+
+User: Pedro Maria Rocha - 10:11
+a la izquierda digo jaja
+
+User: Juan Camilo Salgado Meza - 10:11
+si
+
+User: Marcio Larramendi Rossi - 10:12
+option + ? a mi
+
+User: Daniel Abila - 10:12
+¬¬ me tira ese
+
+User: Marcio Larramendi Rossi - 10:12
+a la derecha del 0
+
+User: Daniel Abila - 10:12
+\ Me funcionó option + ?
+
+User: Daniel Abila - 10:12
+gracias!
+User: Marcio Larramendi Rossi - 10:12
+:D
+
+
+User: Juan Camilo Salgado Meza - 10:12
+¿tienes tu teclado en latinoamericano?
+User: Ivan Arturo Rodriguez Pineda - 10:12
+nice
+
+
+User: Natali Martinez - 10:12
+desde ajustes tenes que configurar tu teclado, hay 3 tipos de español en la conf
+
+User: Fernando Agustin Zunda - 10:13
+todo bien
+
+User: Julie Padilla - 10:13
+para qué servía \\
+
+User: Julie Padilla - 10:13
+ah vale, gracias
+
+User: Romina Andrea Corsiglia - 10:14
+Println
+User: German Daniel Torres - 10:14
+%v
+
+
+User: Ivan Arturo Rodriguez Pineda - 10:14
+%v
+
+User: Juan Urbano - 10:14
+%d
+
+User: Ivan Arturo Rodriguez Pineda - 10:14
+%s ?
+
+User: Nicolás Aldeco - 10:21
+any = interface{}
+
+User: Milagros Stephanie Sassenus - 10:23
+\n
+
+User: German Daniel Torres - 10:23
+PrintLn ?
+
+User: Juan Urbano - 10:24
+no imprimible
+
+User: Yuhong Huang - 10:25
+caracter reservado
+
+User: Julie Padilla - 10:26
+entendido
+User: Romina Andrea Corsiglia - 10:26
+User: Milagros Stephanie Sassenus - 10:26
+si
+sisi
+
+
+
+User: Milagros Stephanie Sassenus - 10:31
+%t
+
+User: Mario Teodoro Escudero - 10:32
+%t
+
+User: Pedro Maria Rocha - 10:32
+%T
+
+User: Julie Padilla - 10:32
+se parece a la impresión en C#
+
+User: Milagros Stephanie Sassenus - 10:32
+es nativo de c eso, si no me equivoco
+
+User: Milagros Stephanie Sassenus - 10:33
+%v %v
+
+User: Nicolás Aldeco - 10:33
+Tal cual es herado de las sintaxis de C
+
+User: Leidy Johanna Roldan Vargas - 10:34
+Mathi que extensiones de VSC usas, disculpa que me desvíe del tema
+
+User: Nicolás Aldeco - 10:34
+La extension de Go y apartir un predictor de codigo
+
+User: Leidy Johanna Roldan Vargas - 10:34
+Gracias!
+
+User: Zoe Agustina Tira - 10:36
+No seria mas conveniente
+
+User: Zoe Agustina Tira - 10:36
+rtruncarlo o algo aso?ç
+
+User: Zoe Agustina Tira - 10:36
+asi*
+
+User: Zoe Agustina Tira - 10:36
+No seria mas conveniente truncarlo o algo asi ? Se podria?
+
+User: Abril Martina Gil - 10:39
+esta me hubiese servido ayer que quería usar para mostrar en pantalla solo dos decimales. Genial!
+
+User: Fabio Andres Mejia Parra (Meyi) - 10:47
+Manejo de logs
+
+User: Daniel Abila - 10:51
+que diferencia hay entre guardar la cadena en una variable o hacerlo con sprint?
+
+User: Mario Teodoro Escudero - 11:05
+🥲
+
+User: Equipo Bootcamp - 11:08
+https://pkg.go.dev/os
+
+User: Pedro Maria Rocha - 11:11
+como JAVA_HOME
+
+User: Equipo Bootcamp - 11:12
+se suelen utilizar para configuraciones
+
+User: Natalia Belen Alvarez - 11:15
+en que casos por ejemplo necesitariamos setear variables de entorno?
+
+User: Natalia Belen Alvarez - 11:17
+gracias! si
+
+User: Daniel Abila - 11:22
+A mi solo me imprime "RESULTADO:"
+
+User: Equipo Bootcamp - 11:23
+@daniel abila estas utilizando mac?
+
+User: Nadia Martin Montesi - 11:23
+seguramente en mac se llame diferente el userprofile
+
+User: Julie Padilla - 11:23
+como hacíamos con el map
+
+User: Daniel Abila - 11:24
+Si, uso mac
+
+User: Gaston Martin - 11:24
+en mac es HOME
+
+User: Daniel Abila - 11:24
+muchas gracias !
+User: Gaston Martin - 11:24
+es como hacer echo $HOME
+
+
+User: Equipo Bootcamp - 11:25
+creo que con $USER tambien
+
+User: Nicolás Aldeco - 11:26
+$HOME -> Directorio raiz del usuario
+
+User: Nicolás Aldeco - 11:26
+$USER -> Perfil de usuario en sesion
+
+User: Equipo Bootcamp - 11:33
+exit status code convention https://tldp.org/LDP/abs/html/exitcodes.html
+
+User: Milagros Stephanie Sassenus - 11:44
+sisi
+
+User: Marcela Cuellar Galvira (Marcela Cuellar Galvira) - 11:44
+si
+
+User: Laureano Silva - 11:44
+input/output
+
+User: Tomas Cuello Rodriguez - 11:49
+podrias volver a explicar que es un reader?
+
+User: Marcela Cuellar Galvira (Marcela Cuellar Galvira) - 11:49
+si por favor
+
+User: Abril Martina Gil - 11:51
+por ejemplo para usar en la consola los checks cuando se levanta un servicio, se usaria el new REader y copy?
+
+User: Nicolás Aldeco - 11:52
+A que check te referis Abril?
+
+User: Juan Andrés Pérez Trejos - 11:52
+Es decir, un reader funciona para transmitir datos de salida a la consola?
+
+User: Abril Martina Gil - 11:53
+checks como checkear q tengas seteadas ENV HTTP   u otras, y mostrar avisos.
+
+User: Nicolás Aldeco - 11:54
+Ah bien, podrias pero es bastante engorroso, hay paquetes que te abstraen de esta implementacion como es os.Getenv
+
+User: Abril Martina Gil - 11:54
+ah perfecto!
+
+User: Milagros Stephanie Sassenus - 11:57
+yo todo bien
+
+User: Victor Hugo Martinez - 11:57
+todo bien
+
+User: Abril Martina Gil - 11:58
+mayor mente se usa los Print que NewReader de io
+
+User: Tú - 12:00
+Les queda los links en Slack por cualquier cosa si lo necesitan.
+Package io:
+https://pkg.go.dev/io
+Package os:
+https://pkg.go.dev/os
+
+User: Romina Andrea Corsiglia - 12:15
+=)
+
+User: Julie Padilla - 12:16
+si se ve
+
+User: Mario Teodoro Escudero - 12:19
+la comunicacion efectiva
+User: Pedro Maria Rocha - 12:19
+comunicacion, empatia
+User: Fabio Andres Mejia Parra (Meyi) - 12:19
+Trabajo en equipo
+
+
+
+User: Mario Teodoro Escudero - 12:23
+los tonos de voz ?
+
+User: Mario Teodoro Escudero - 12:23
+la postura
+
+User: Zoe Agustina Tira - 12:28
+el para
+
+User: Abril Martina Gil - 12:29
+que profesor
+
+User: Mariano Macri - 12:35
+muy bueno!
+
+User: Mathias Hilgert - 12:35
+<3
+
+User: Milagros Stephanie Sassenus - 12:35
+Muchas gracias Flor!
+User: Juan Urbano - 12:35
+gracias
+User: Zoe Agustina Tira - 12:35
+Gracias!!
+User: Camila Lorena Conte - 12:35
+gracias!
+User: Luis Rodrigo Durand Panez - 12:35
+Muy buenoo
+User: Juan Andrés Pérez Trejos - 12:35
+gracias flor!!
+
+
+
+
+
+
+User: Marcela Cuellar Galvira (Marcela Cuellar Galvira) - 12:35
+User: Mauricio Andres Rosso - 12:35
+muchas gracias
+User: Natalia Belen Alvarez - 12:35
+User: Fernando Agustin Zunda - 12:35
+gracias flor!
+muchas gracias!!
+Muchas gracias Flor!
+
+
+
+
+User: Leidy Johanna Roldan Vargas - 12:35
+<3
+User: Roberto Gattas - 12:35
+Gracias!!
+User: Natali Martinez - 12:35
+Gracias!
+User: Nicolás Aldeco - 12:35
+Genia Flor!
+User: Sarai San Juan - 12:35
+Gracias!
+User: Romina Andrea Corsiglia - 12:35
+=) thank yoiu
+
+User: Juan Jose Ramirez Gomez - 12:35
+Gracias
+
+
+
+
+
+
+User: Mario Teodoro Escudero - 12:35
+gracias
+
+User: Jeisson Fernando Santiesteban Mendivelso - 12:35
+gracuas
+User: Equipo Bootcamp - 12:35
+buenisimo
+
+
+User: Mariano Macri - 12:36
+hoy vimos Sprint...
+
+User: Florencia Stanczyk - 12:36
+https://docs.google.com/presentation/d/15y-X0lxCYavrHuLj3pZ_U53g2xOM7Z8O0yguisgdKOo/edit?usp=sharing
+
+User: Florencia Stanczyk - 12:36
+Gracias a ustedes!
+
+User: Nicolás Aldeco - 12:38
+🙌🙌🙌🙌
+
+User: Nicolás Aldeco - 12:38
+Documentacion sobre csv -> https://es.wikipedia.org/wiki/Valores_separados_por_comas
+User: Nicolas Tesone - 12:38
+¿que es un csv? https://www.geeknetic.es/Archivo-CSV/que-es-y-para-que-sirve
+
+
+User: Juan Urbano - 12:40
+usar el stdin
+
+User: Mathias Hilgert - 12:40
+\t
+
+User: Equipo Bootcamp - 12:40
+existe los espacios tambien pero con tabulacion se puede aplicar
+
+User: Nicolás Aldeco - 12:52
+Ivan y Julian, tenian alguna duda?
+
+User: Ivan Arturo Rodriguez Pineda - 12:52
+Estoy corroborando lo que estan viendo con Santiago jeje
+
+User: Nicolás Aldeco - 12:52
+Ahh bien bien jaja no hay drama
+
+User: Tú - 
+👏👏
+
+User: Tú - 13:01
+nos vemos
+
+User: Equipo Bootcamp - 13:02
+en 10 paso por las salas 5 a 11 a ver como van
+
+User: Tú - 13:02
+Dale yo voy para el resto entonce
+
+User: Equipo Bootcamp - 13:13
+voy pasando
+
+User: Zoe Agustina Tira - 14:58
+Buenas de nuevoo
+User: German Daniel Torres - 15:00
+uff me comi en shawarma gigante en 5 minutos. LLego recien
+ayuda para respirar please
+User: Zoe Agustina Tira - 15:01
+Quien pudiese
+User: Nicolás Aldeco - 15:03
+%2.2f
+
+
+
+
+User: Juan Urbano - 15:12
+&
+User: Abril Martina Gil - 15:12
+&
+User: Julie Padilla - 15:12
+&
+
+
+
+User: Zoe Agustina Tira - 15:15
+poruqe son distintas variables
+
+User: Nadia Martin Montesi - 15:15
+la direccion del puntero?
+
+User: Lucas Damian Soria Gava - 15:19
+En métodos
+
+User: Abril Martina Gil - 15:20
+si
+
+User: Julie Padilla - 15:20
+si
+User: Milagros Stephanie Sassenus - 15:20
+sisi
+
+
+User: Zoe Agustina Tira - 15:21
+ahi si porque estas trabajando con la copia
+
+User: Romina Andrea Corsiglia - 15:27
+si perfecto
+
+User: Zoe Agustina Tira - 15:28
+basicamente con & hacemos referencia a la memoria y con * al valor
+no?
+
+User: Zoe Agustina Tira - 15:29
+claro, accedes al valor mediante la direccion
+
+User: German Daniel Torres - 15:30
+si
+
+User: German Daniel Torres - 15:30
+al pasar por valor pasas una copia digamos?
+
+User: Equipo Bootcamp - 15:31
+claro
+
+User: German Daniel Torres - 15:31
+gracias
+
+User: Daniel Abila - 15:36
+me explotó la cabeza
+
+User: Romina Andrea Corsiglia - 15:36
+jajaj
+
+User: Romina Andrea Corsiglia - 15:36
+una ensalada xD
+
+User: Milagros Stephanie Sassenus - 15:38
+sisi
+User: Zoe Agustina Tira - 15:38
+perfecto
+User: Julie Padilla - 15:38
+si clarísimo
+User: Sarai San Juan - 15:38
+Si
+
+
+
+
+User: Lucas Damian Soria Gava - 15:38
+perfecto
+
+User: Mariano Macri - 15:38
+ferpecto!
+
+User: German Daniel Torres - 15:38
+okeyy
+User: Franco Damian Niz - 15:38
+Joya
+User: Roberto Gattas - 15:38
+dale excelente!
+User: Milagros Stephanie Sassenus - 15:38
+dale, asi me hago un cafecito
+User: Mariano Macri - 15:38
+sisi
+User: Fabio Andres Mejia Parra (Meyi) - 15:38
+Un cafecito
+
+
+
+
+
+
+User: Mario Teodoro Escudero - 15:38
+ale
+dale
+User: Luis Alejandro Carvajal Villa - 15:38
+listo!
+User: Jeisson Fernando Santiesteban Mendivelso - 15:38
+dale
+
+
+
+User: Romina Andrea Corsiglia - 15:39
+si para el coffee
+
+User: Nicolás Aldeco - 15:39
+Calentar el agua para el mate :D
+
+User: Mario Teodoro Escudero - 15:48
+🤓
+
+User: Julie Padilla - 15:48
+estamos
+
+User: Franco Damian Niz - 15:50
+quizas eso es recurrencia?
+
+User: Pedro Maria Rocha - 15:51
+recurso
+User: Lucas Damian Soria Gava - 15:51
+recurso
+
+
+User: Julie Padilla - 16:03
+2000 ms
+
+User: Mariano Macri - 16:03
+1 segundo
+
+User: German Daniel Torres - 16:03
+1000 ms?
+
+User: Mariano Macri - 16:03
+1002 ms jajaja
+
+User: Fabio Andres Mejia Parra (Meyi) - 16:03
+jaja
+
+User: Julie Padilla - 16:04
+jajaj
+
+User: Daniel Abila - 16:04
+calculado a ojo
+
+User: Daniel Abila - 16:06
+1001 a mi xD
+
+User: Mariano Macri - 16:06
+sòlo tardó un cuarto de ms los dos print!!!
+
+User: Fabio Andres Mejia Parra (Meyi) - 16:07
+maquina Go
+
+User: Mariano Macri - 16:07
+voy y vengo chicos
+
+User: Milagros Stephanie Sassenus - 16:09
+no se hizo ninguna
+
+User: Romina Andrea Corsiglia - 16:09
+no entendi
+
+User: Abril Martina Gil - 16:09
+siento q falta el await jaja
+
+User: Milagros Stephanie Sassenus - 16:09
+yo estaba esperando un async
+
+User: Jeisson Fernando Santiesteban Mendivelso - 16:09
+si se parece al await xd
+
+User: Abril Martina Gil - 16:10
+eso mili
+
+User: Daniel Abila - 16:10
+metió un break
+
+User: Lucas Damian Soria Gava - 16:12
+Las metió al scheduler "hasta que haya un espacio" pero nunca llegó
+
+User: Romina Andrea Corsiglia - 16:12
+xq no llega ?
+
+User: Mariano Macri - 16:13
+@lucas Ah claro!
+
+User: Romina Andrea Corsiglia - 16:13
+no entiendo ah o sea q se ejecuta primero lo del main ?
+
+User: Abril Martina Gil - 16:13
+si
+User: Victor Hugo Martinez - 16:13
+si
+User: Romina Andrea Corsiglia - 16:13
+luego el procesar ?
+
+
+
+User: Pedro Maria Rocha - 16:13
+sisi
+User: Mariano Macri - 16:13
+si señor
+User: Sarai San Juan - 16:13
+Si
+
+
+
+User: Natali Martinez - 16:15
+condicion de carrera es lo que confundi con concurrencia, acceden al mismo recurso
+
+User: Lucas Damian Soria Gava - 16:17
+1s
+
+User: Juan Camilo Salgado Meza - 16:20
+¿hay algun "limite recomendable" para cantidad de go routines?
+
+User: Equipo Bootcamp - 16:21
+hay varios patrones de concurrencia
+
+User: Equipo Bootcamp - 16:21
+fan in fan out, semaforo... muchas formas de diseñarlo
+
+User: Tú - 16:22
+https://blog.friendsofgo.tech/posts/go-scheduler/
+Les comparto un articulo muy bueno con respecto a esto
+Go Scheduler: ¿cómo se gestionan nuestras gorrutinas?
+
+User: Romina Andrea Corsiglia - 16:22
+cuando hacen login en page ?
+
+User: Equipo Bootcamp - 16:24
+espera 2000 milisegundos para darle respito a los go routines a que lleven a cabo su ejecución
+
+User: Equipo Bootcamp - 16:24
+respiro*
+
+User: Juan Andrés Pérez Trejos - 16:25
+es como un tiempo de guarda esperando a que todas las routines se hayan ejecutado?
+
+User: Equipo Bootcamp - 16:25
+claro
+
+User: Fabio Andres Mejia Parra (Meyi) - 16:25
+Toca sumarle el tiempo de ejecutar 1000 veces las go routines , no?
+
+User: Equipo Bootcamp - 16:25
+pero puede ser que no todos se hayan terminado de ejecutar, el programa le importa el main
+
+User: Marcio Larramendi Rossi - 16:26
+Hay algun sleep dinamico que espere el tiempo necesario para que terminen las XXXXX cantidad de ejecuciones?
+
+User: Equipo Bootcamp - 16:26
+hay varios mecanismos para indicarle al thread 'main', entre ellos los canales y los famosos wait groups
+
+User: Equipo Bootcamp - 16:26
+para evitar que termine antes
+
+User: Milagros Stephanie Sassenus - 16:34
+ahora espera
+
+User: Milagros Stephanie Sassenus - 16:34
+a que terminen las rutinas
+
+User: Marcela Cuellar Galvira (Marcela Cuellar Galvira) - 16:34
+que solo termino 3 procesos?
+
+User: Mario Teodoro Escudero - 16:35
+es como el async await pero mucho mas enquilombado
+
+User: Abril Martina Gil - 16:36
+sisi
+
+User: Lucas Damian Soria Gava - 16:36
+de que sirve el canal si las go routines se pisan entre si?
+
+User: Equipo Bootcamp - 16:39
+deadlock es uno de los errores mas comunes que se pueden encontrar en go routines
+
+User: Equipo Bootcamp - 16:39
+@Lucas no pude comprender la pregunta
+
+User: Equipo Bootcamp - 16:42
+los canales son una manera segura de trabajar con concurrencia, a diferencia de lo que es memoria compartida. Los canales buscan pasar datos entre distintos pipes. Unos dejan y otros toman. Y nosotros diseñamos el sistema
+
+User: Fabio Andres Mejia Parra (Meyi) - 16:43
+Hay forma de leer todo lo que tenga el canal sin el for?
+
+User: Equipo Bootcamp - 16:45
+el canal lo puede ver como una bandeja. Tienen un restaurante, el cocinero prepara la comida. Una vez que termina, deja la comida en una bandeja para que el mozo lo entregue. Mientras el cocinero no deje a comida, hay deadlock, el mozo no puede hacer nada. Mientra el mozo reparte, el cocinero puede cocinar al mismo tiempo
+
+User: Abril Martina Gil - 16:46
+y si quiero cortar el proceso porque recibio un error?
+
+User: Lucas Damian Soria Gava - 16:46
+os.Exit(1)?
+
+User: Abril Martina Gil - 16:46
+pero el proceso de canal digo
+
+User: Julie Padilla - 16:48
+es que se ejecuta en desorden
+
+User: Abril Martina Gil - 16:50
+una promesa (?)
+
+User: Romina Andrea Corsiglia - 16:51
+genial
+
+User: Lucas Damian Soria Gava - 16:51
+piola
+User: Zoe Agustina Tira - 16:51
+Interesante
+User: Mario Teodoro Escudero - 16:51
+muy buena
+
+
+
+User: German Daniel Torres - 16:51
+buenisima
+User: Julie Padilla - 16:51
+muy interesante
+User: Marcela Cuellar Galvira (Marcela Cuellar Galvira) - 16:51
+muy interesante
+User: Daniel Abila - 16:51
+User: Jeisson Fernando Santiesteban Mendivelso - 16:51
+costó un poco
+interesante
+User: Mauricio Andres Rosso - 16:51
+Muy buena!
+
+User: Zoe Agustina Tira - 16:51
+Para masticar en frio
+
+User: Luis Alejandro Carvajal Villa - 16:51
+interesante!
+
+User: Juan Camilo Salgado Meza - 16:51
+Interesante
+
+
+
+
+
+
+User: Lucas Damian Soria Gava - 16:51
+me encanta concurrencia y paralelismo
+User: Juan Martin Guglielmone - 16:51
+Curioso de ver la aplicacion
+User: Mariano Macri - 16:51
+muuuuy copado jajaja
+
+
+
+User: Leidy Johanna Roldan Vargas - 16:51
+ufff hay que seguir leyendo
+User: Fabio Andres Mejia Parra (Meyi) - 16:51
+Chévere
+
+
+User: Julie Padilla - 16:51
+yo ya logré entender lo del sleep que me tratabas de explicar jaja
+User: Roberto Gattas - 16:51
+es un tema abstracto pero muy bueno!
+User: Equipo Bootcamp - 16:51
+@Abril Hay 2 opciones, mantener el proceso vivo, mostrando el mensaje de error. O parar el proceso,lo que podrian generar problemas en tareas posteriores dependientes
+
+
+
+User: Pedro Maria Rocha - 16:51
+TIene mucho potencial, habria que ver los casos donde se aplica
+User: Dionys Seidel - 16:51
+Pensé que iba ser viento y terminó siendo fuego
+User: German Daniel Torres - 16:51
+@Zoe si tal cual necesito masticar en frio
+
+
+
+User: German Daniel Torres - 16:51
+varios días ya
+User: Dionys Seidel - 16:52
+Puedo decir esx?
+
+
+User: Abril Martina Gil - 16:53
+ahh ya gracias @Equipo Bootcamp
+
+User: Tú - 16:55
+https://pkg.go.dev/sync
+
+User: Equipo Bootcamp - 16:57
+Manejo de Concurrencia es mediante 'canales'' o 'memoria compartida'. Los canales es uan forma mas segura de trajabar. Memoria Compartida atenta contra la consistencia de datos. En este ultimo se utiliza 'mutex' por lo general
+
+User: Mariano Macri - 16:58
+buenisimo!
+
+User: Milagros Stephanie Sassenus - 16:59
+sisi
+
+User: Mario Teodoro Escudero - 17:01
+va a haber solucion del 4?
+
+User: Mario Teodoro Escudero - 17:01
+todo bien
+
+User: Abril Martina Gil - 17:02
+ninguna
+
+User: Julie Padilla - 17:02
+Nico tú nos puedes pasar el código que se hizo en clase al slack porfa?
+
+User: Milagros Stephanie Sassenus - 17:03
+nos vemos
+
+User: Mario Teodoro Escudero - 10:14
+User: Romina Andrea Corsiglia - 10:14
+si
+si
+
+
+User: Zoe Agustina Tira - 10:16
+Tendrias algun ejemplo en donde esto podria llegar a pasar?
+
+User: Zoe Agustina Tira - 10:16
+Como para tener una idea
+
+User: Zoe Agustina Tira - 10:16
+Ah y los informas al final
+claro
+
+User: Zoe Agustina Tira - 10:16
+Gracias
+
+User: Leidy Johanna Roldan Vargas - 10:22
+todo claro
+User: Luis Alejandro Carvajal Villa - 10:22
+todo bien!
+User: abril gil - 10:22
+todo bien
+
+
+
+User: Juan Andrés Pérez Trejos - 10:22
+por el momento todo bien
+
+User: Lucas Nicolás Masiero - 10:31
+http status code convention https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+User: Lucas Nicolás Masiero - 10:32
+exit codes convention https://tldp.org/LDP/abs/html/exitcodes.html
+
+User: Mario Teodoro Escudero - 10:32
+todo bien
+User: Victor Hugo Martinez - 10:32
+todo bien
+
+
+User: Juan Andrés Pérez Trejos - 10:34
+Y sería buena práctica por ejemplo, transformar el error automáticamente a formato Json? O sería un paso por aparte?
+
+User: Lucas Nicolás Masiero - 10:39
+@Juan si lo que se busca es devolver una respuesta json, esta bueno mantener independencia entre el json y la estructura de error. En todo caso podes utilizar el mensaje que retorna err.Error() para incluirlo en un json. Mas adelante se vera como apicar esta composicion con los structs
+
+User: Juan Andrés Pérez Trejos - 10:40
+Buenisimo!! Gracias a ambos!
+
+User: Zoe Agustina Tira - 10:43
+el tipo
+
+User: Nadia Martin Montesi - 10:43
+la estructura
+User: Mario Teodoro Escudero - 10:43
+la estructura
+
+
+User: Zoe Agustina Tira - 10:46
+y poruqe el primero no es necesario?
+
+User: abril gil - 10:46
+leestaria mandano la direccion no?
+
+User: Lucas Nicolás Masiero - 10:47
+https://cs.opensource.google/go/go/+/refs/tags/go1.19.1:src/errors/wrap.go;l=78
+
+User: Romina Andrea Corsiglia - 10:47
+y no compara su contenido , solo si su tipo?
+
+User: Camila Lorena Conte - 10:48
+entonces le estariamos preguntando si err1 es de tipo MyCustomError?
+
+User: Nicolas Tesone - 10:50
+@Dionys aca te dejo informacion mas interna de que es lo que hace internamente 
+"func As(err error , target any ) bool" 
+https://pkg.go.dev/errors#As
+
+User: Romina Andrea Corsiglia - 10:56
+tdo bn
+
+User: Milagros Stephanie Sassenus - 10:56
+ninguna duda yo
+
+User: Mathias Hilgert - 10:56
+https://go.dev/blog/go1.13-errors
+
+User: Juan Andrés Pérez Trejos - 10:56
+creo que las preguntas vendrían cuando se ponga en práctica con los ejercicios jajaja
+
+User: Zoe Agustina Tira - 10:58
+consulta, un error no puede tener encapsulado varios errrores en el mismo "nivel" porasi decirlo?
+
+User: Zoe Agustina Tira - 10:58
+okok
+
+User: Lucas Nicolás Masiero - 11:00
+una de las aplicaciones del encapsulamiento de errores, es tener un error base principal, y a este se le va agregando capas para darle mas detalle.
+
+User: Nicolas Tesone - 11:01
+👆🏼
+
+User: Lucas Nicolás Masiero - 11:02
+la idea es poder generar tambien un mejor tracking de donde surgio el error cuando las aplicaciones crecen
+
+User: Laureano Silva - 11:03
+Se podria hacer un for para encadenar esos unwrap?
+
+User: Zoe Agustina Tira - 11:03
+En que se podria aplicar esto por ejemplo?
+
+User: Lucas Nicolás Masiero - 11:03
+@Laureano si tu idea es llegar al origen tendria que ser recursivo
+
+User: Laureano Silva - 11:04
+Gracias Lucas, iba por ahi la pregunta.
+
+User: abril gil - 11:04
+tal vez un error de error 404 , err2 seria el request enviado le falta email y lastname oal go asi no?
+
+User: Nicolas Tesone - 11:04
+@Zoe en go web cuando veamos capas de aplicacion y como se comunican te va a servir en caso de que quieras usarlo
+
+User: Lucas Nicolás Masiero - 11:04
+@abril exacto
+
+User: Fernando Agustin Zunda - 11:04
+todo claro
+User: Nicolas Tesone - 11:04
+es decir para mover un error por las diferentes capas de la APP
+
+
+User: Nicolas Tesone - 11:04
+no es la unica forma, podemos usarlo para eso
+
+User: Mario Teodoro Escudero - 11:05
+dale
+
+User: Milagros Stephanie Sassenus - 11:05
+dale
+User: Leidy Johanna Roldan Vargas - 11:05
+oki
+User: Fernando Agustin Zunda - 11:05
+oki
+
+
+
+User: Zoe Agustina Tira - 11:05
+Claro, pero no se me ocurre porque o  cuando querria usarlo jaja
+User: Luis Alejandro Carvajal Villa - 11:05
+bueno :)
+
+
+User: Pedro Maria Rocha - 11:05
+genial
+
+User: abril gil - 11:05
+tl vez debuggera tmb zoe
+
+User: abril gil - 11:05
+capaz como desarroladores no nointeresa el priimer mensaje gnerico sino ir al grano
+
+User: Lucas Nicolás Masiero - 11:06
+@laureano acordate que en las funciones recursivas siempre hay un caso limite que evita el infinito. Ese caso es cuando aplicas el Unwrap sobre el original, te devuelve nil. Podes armar una funcion que si detecta ese caso corte la recursividad (con un for se puede hacer)
+
+User: Laureano Silva - 11:10
+Genial Lucas!
+
+User: Zoe Agustina Tira - 11:21
+Puedo preguntar porque "permitieron" la division por cero siendo qeu en otros lenguajes directamente te tira el error?
+
+User: German Daniel Torres - 11:22
+porque 0 es el valor null para numeros ?
+
+User: Ivan Arturo Rodriguez Pineda - 11:22
+creo que no se ejecutó la división y se retorno fue el valor inicial del resultado que es 0
+
+User: Fabio Andres Mejia Parra (Meyi) - 11:24
+Ahí el switch funciona como un is()?
+
+User: Juan Andrés Pérez Trejos - 11:27
+Podrías pasar ese trozo de código por slack luego mati?
+
+User: Lucas Nicolás Masiero - 11:30
+@fabio podes utilizarlo con switch tambien hay 2 formas de aplicarlo, mas tarde paso un script
+
+User: Laureano Silva - 11:31
+Eso pasó en el ejemplo de la division, cuando ignoraste el error.
+
+User: Luis Alejandro Carvajal Villa - 11:33
+pregunta, hay códigos de error definidos en go, similar a http errors? o se usan los mismos de C
+
+User: Luis Alejandro Carvajal Villa - 11:34
+exit codes
+
+User: Luis Alejandro Carvajal Villa - 11:34
+dale, gracias
+User: Mathias Hilgert - 11:35
+exit codes convention https://tldp.org/LDP/abs/html/exitcodes.html
+
+
+User: Victor Hugo Martinez - 11:36
+adelante
+
+User: Jeisson Fernando Santiesteban Mendivelso - 11:36
+todo claro
+
+User: Lucas Nicolás Masiero - 11:40
+es una forma mas directa de cortar la ejecución en vez de 'posponerla'
+
+User: Juan Andrés Pérez Trejos - 11:45
+Suele usarse que se devuelva un array de errores?
+
+User: Daniel Abila - 11:46
+nos pasas tu código?
+
+User: Natali Martinez - 11:47
+nos pasas tus extenciones?
+
+User: German Daniel Torres - 11:47
+las extensiones!, esta bueno que te ponga el "sadpath" mas apagado
+jaja justo
+User: Leidy Johanna Roldan Vargas - 11:47
+plssss
+
+
+User: Lucas Nicolás Masiero - 11:47
+@Juan en todo caso podes enlistar los errores en la cadena de texto, pero tambien se puede aplicar de esa forma. Aunque no se suele retornar un slice de errores
+
