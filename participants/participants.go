@@ -52,7 +52,7 @@ var (
 		"Franco Rodolfo Pesenda",
 		"Juan Andrés Pérez Trejos",
 		"Juan Jose Ramirez Gomez",
-		"Pedro Maria Rocha",
+		"Pedro Rocha",
 		"Ivan Arturo Rodriguez Pineda",
 		"Leidy Johanna Roldan Vargas",
 		"Mauricio Andres Rosso",
